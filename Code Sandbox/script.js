@@ -112,4 +112,5 @@ window.onload = loadCode;
 
 
 
-const htmlCode = document.getElementById('html-code');
+const htmlCode = document.getElementById('html-code');
+const cssCode = document.getElementById('css-code');
