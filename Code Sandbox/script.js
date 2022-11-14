@@ -116,4 +116,5 @@ const htmlCode = document.getElementById('html-code');
 const cssCode = document.getElementById('css-code');
 const jsCode = document.getElementById('js-code');
 const output = document.getElementById('output');
-const saveButton = document.getElementById('save-button');
+const saveButton = document.getElementById('save-button');
+const resetButton = document.getElementById('reset-button');
