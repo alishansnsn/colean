@@ -120,4 +120,5 @@ const saveButton = document.getElementById('save-button');
 const resetButton = document.getElementById('reset-button');
 const notificationModal = document.getElementById('notification-modal');
 const modalMessage = document.getElementById('modal-message');
-const modalCloseButton = document.getElementById('modal-close-button');
+const modalCloseButton = document.getElementById('modal-close-button');
+
