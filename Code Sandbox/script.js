@@ -122,4 +122,5 @@ const notificationModal = document.getElementById('notification-modal');
 const modalMessage = document.getElementById('modal-message');
 const modalCloseButton = document.getElementById('modal-close-button');
 
-
+
+const defaultHtml = `<h1>Hello, Sandbox!</h1>\n<p>Start coding here.</p>`;
