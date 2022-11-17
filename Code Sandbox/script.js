@@ -123,4 +123,5 @@ const modalMessage = document.getElementById('modal-message');
 const modalCloseButton = document.getElementById('modal-close-button');
 
 
-const defaultHtml = `<h1>Hello, Sandbox!</h1>\n<p>Start coding here.</p>`;
+const defaultHtml = `<h1>Hello, Sandbox!</h1>\n<p>Start coding here.</p>`;
+const defaultCss = `body {\n  font-family: sans-serif;\n  color: #333;\n}`;
