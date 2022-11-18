@@ -124,4 +124,5 @@ const modalCloseButton = document.getElementById('modal-close-button');
 
 
 const defaultHtml = `<h1>Hello, Sandbox!</h1>\n<p>Start coding here.</p>`;
-const defaultCss = `body {\n  font-family: sans-serif;\n  color: #333;\n}`;
+const defaultCss = `body {\n  font-family: sans-serif;\n  color: #333;\n}`;
+const defaultJs = `console.log("Welcome to the Code Sandbox!");`;
