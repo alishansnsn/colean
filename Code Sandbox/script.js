@@ -129,4 +129,5 @@ const defaultJs = `console.log("Welcome to the Code Sandbox!");`;
 
 function runCode() {
     const html = htmlCode.value;
-    const css = cssCode.value;
+    const css = cssCode.value;
+    const js = jsCode.value;
