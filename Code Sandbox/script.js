@@ -133,4 +133,5 @@ function runCode() {
     const js = jsCode.value;
 
     const fullCode = `
-        <!DOCTYPE html>
+        <!DOCTYPE html>
+        <html>
