@@ -135,4 +135,5 @@ function runCode() {
     const fullCode = `
         <!DOCTYPE html>
         <html>
-        <head>
+        <head>
+            <style>${css}</style>
