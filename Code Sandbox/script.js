@@ -138,4 +138,5 @@ function runCode() {
         <head>
             <style>${css}</style>
         </head>
-        <body>
+        <body>
+            ${html}
