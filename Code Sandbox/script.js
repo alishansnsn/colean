@@ -144,4 +144,5 @@ function runCode() {
         </body>
         </html>
     `;
-    
+    
+    output.srcdoc = fullCode;
