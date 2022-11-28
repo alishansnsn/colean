@@ -145,4 +145,5 @@ function runCode() {
         </html>
     `;
     
-    output.srcdoc = fullCode;
+    output.srcdoc = fullCode;
+}
