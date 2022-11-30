@@ -150,4 +150,5 @@ function runCode() {
 
 
 function saveCode() {
-    try {
+    try {
+        localStorage.setItem('sandboxHtml', htmlCode.value);
