@@ -152,4 +152,5 @@ function runCode() {
 function saveCode() {
     try {
         localStorage.setItem('sandboxHtml', htmlCode.value);
-        localStorage.setItem('sandboxCss', cssCode.value);
+        localStorage.setItem('sandboxCss', cssCode.value);
+        localStorage.setItem('sandboxJs', jsCode.value);
