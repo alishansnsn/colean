@@ -155,4 +155,5 @@ function saveCode() {
         localStorage.setItem('sandboxCss', cssCode.value);
         localStorage.setItem('sandboxJs', jsCode.value);
         showNotification('Code saved successfully!');
-    } catch (e) {
+    } catch (e) {
+        showNotification('Error saving code. Please check browser settings.', true);
