@@ -156,4 +156,5 @@ function saveCode() {
         localStorage.setItem('sandboxJs', jsCode.value);
         showNotification('Code saved successfully!');
     } catch (e) {
-        showNotification('Error saving code. Please check browser settings.', true);
+        showNotification('Error saving code. Please check browser settings.', true);
+        console.error("Could not save to localStorage", e);
