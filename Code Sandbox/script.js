@@ -157,4 +157,5 @@ function saveCode() {
         showNotification('Code saved successfully!');
     } catch (e) {
         showNotification('Error saving code. Please check browser settings.', true);
-        console.error("Could not save to localStorage", e);
+        console.error("Could not save to localStorage", e);
+    }
