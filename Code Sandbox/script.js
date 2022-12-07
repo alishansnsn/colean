@@ -162,4 +162,5 @@ function saveCode() {
 }
 
 
-function loadCode() {
+function loadCode() {
+    const savedHtml = localStorage.getItem('sandboxHtml');
