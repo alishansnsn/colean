@@ -163,4 +163,5 @@ function saveCode() {
 
 
 function loadCode() {
-    const savedHtml = localStorage.getItem('sandboxHtml');
+    const savedHtml = localStorage.getItem('sandboxHtml');
+    const savedCss = localStorage.getItem('sandboxCss');
