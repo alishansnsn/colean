@@ -166,4 +166,5 @@ function loadCode() {
     const savedHtml = localStorage.getItem('sandboxHtml');
     const savedCss = localStorage.getItem('sandboxCss');
     const savedJs = localStorage.getItem('sandboxJs');
-
+
+    // If there's saved code, use it. Otherwise, use the defaults.
