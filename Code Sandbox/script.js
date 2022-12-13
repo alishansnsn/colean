@@ -172,4 +172,5 @@ function loadCode() {
     cssCode.value = savedCss || defaultCss;
     jsCode.value = savedJs || defaultJs;
 
-    runCode(); // Run the code after loading
+    runCode(); // Run the code after loading
+}
