@@ -174,4 +174,5 @@ function loadCode() {
 
     runCode(); // Run the code after loading
 }
-
+
+// Function to reset all the code to its default state
