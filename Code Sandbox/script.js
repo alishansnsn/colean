@@ -182,4 +182,5 @@ function resetCode() {
         htmlCode.value = defaultHtml;
         cssCode.value = defaultCss;
         jsCode.value = defaultJs;
-        localStorage.removeItem('sandboxHtml');
+        localStorage.removeItem('sandboxHtml');
+        localStorage.removeItem('sandboxCss');
