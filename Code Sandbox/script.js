@@ -185,4 +185,5 @@ function resetCode() {
         localStorage.removeItem('sandboxHtml');
         localStorage.removeItem('sandboxCss');
         localStorage.removeItem('sandboxJs');
-        runCode();
+        runCode();
+        showNotification('Code has been reset to defaults.');
