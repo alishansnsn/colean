@@ -189,4 +189,5 @@ function resetCode() {
         showNotification('Code has been reset to defaults.');
     }
 }
-
+
+// Function to display a custom notification modal
