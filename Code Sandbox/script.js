@@ -191,4 +191,5 @@ function resetCode() {
 }
 
 // Function to display a custom notification modal
-function showNotification(message, isError = false) {
+function showNotification(message, isError = false) {
+    modalMessage.textContent = message;
