@@ -190,4 +190,5 @@ function resetCode() {
     }
 }
 
-// Function to display a custom notification modal
+// Function to display a custom notification modal
+function showNotification(message, isError = false) {
