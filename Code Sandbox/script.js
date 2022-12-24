@@ -197,4 +197,5 @@ function showNotification(message, isError = false) {
     
     // Auto-hide after 3 seconds unless it's an error
     if (!isError) {
-        setTimeout(() => {
+        setTimeout(() => {
+            notificationModal.classList.add('hidden');
