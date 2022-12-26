@@ -200,4 +200,5 @@ function showNotification(message, isError = false) {
         setTimeout(() => {
             notificationModal.classList.add('hidden');
         }, 3000);
-    }
+    }
+}
