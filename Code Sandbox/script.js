@@ -202,4 +202,5 @@ function showNotification(message, isError = false) {
         }, 3000);
     }
 }
-
+
+// --- Event Listeners ---
