@@ -201,4 +201,5 @@ function showNotification(message, isError = false) {
             notificationModal.classList.add('hidden');
         }, 3000);
     }
-}
+}
+
