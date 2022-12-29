@@ -206,4 +206,5 @@ function showNotification(message, isError = false) {
 // --- Event Listeners ---
 // Listen for input on all editors to run the code in real-time
 htmlCode.addEventListener('input', runCode);
-cssCode.addEventListener('input', runCode);
+cssCode.addEventListener('input', runCode);
+jsCode.addEventListener('input', runCode);
