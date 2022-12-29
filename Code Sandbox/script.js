@@ -204,4 +204,5 @@ function showNotification(message, isError = false) {
 }
 
 // --- Event Listeners ---
-// Listen for input on all editors to run the code in real-time
+// Listen for input on all editors to run the code in real-time
+htmlCode.addEventListener('input', runCode);
