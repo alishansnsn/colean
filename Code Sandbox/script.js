@@ -208,4 +208,5 @@ function showNotification(message, isError = false) {
 htmlCode.addEventListener('input', runCode);
 cssCode.addEventListener('input', runCode);
 jsCode.addEventListener('input', runCode);
-
+
+// Listen for clicks on the save and reset buttons
