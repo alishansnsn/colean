@@ -214,4 +214,5 @@ saveButton.addEventListener('click', saveCode);
 resetButton.addEventListener('click', resetCode);
 modalCloseButton.addEventListener('click', () => {
     notificationModal.classList.add('hidden');
-});
+});
+
