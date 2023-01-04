@@ -217,4 +217,5 @@ modalCloseButton.addEventListener('click', () => {
 });
 
 // --- Initialization ---
-// Load the code from local storage on page load
+// Load the code from local storage on page load
+window.onload = loadCode;
