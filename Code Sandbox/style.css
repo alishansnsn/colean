@@ -1,0 +1,70 @@
+/*
+    Project: Simple Code Sandbox
+    Author: Gemini
+    Description: This file contains all the custom CSS for the Code Sandbox.
+    It includes styling for the editors, buttons, and a custom notification modal.
+*/
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Base styling for code editor textareas */
+textarea {
+    background-color: #2d3748; /* Editor background */
+    border-color: #4a5568; /* Border color */
+    color: #e2e8f0; /* Text color */
+    font-family: 'Fira Code', 'Roboto Mono', monospace; /* A common font for code */
+    resize: none;
+    transition: all 0.2s ease-in-out;
+}
+
+/* Focus state for textareas */
+textarea:focus {
+    outline: none;
+    border-color: #63b3ed;
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
+}
+
+.output-panel {
+    background-color: #ffffff;
+    border-color: #4a5568;
+}
+
+/* Custom scrollbar styles for a better look */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #2d3748;
+}
+::-webkit-scrollbar-thumb {
+    background: #4a5568;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #718096;
+}
+
+/* Modal styling */
+.modal {
+    transition: opacity 0.3s ease-in-out;
+}
+.modal-content {
+    animation: fadeInScale 0.3s ease-in-out;
+}
+
+@keyframes fadeInScale {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+
+/*
