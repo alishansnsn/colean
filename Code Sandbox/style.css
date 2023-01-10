@@ -77,4 +77,5 @@ textarea:focus {
 body {
     font-family: 'Inter', sans-serif;
 }
-
+
+/* Base styling for code editor textareas */
