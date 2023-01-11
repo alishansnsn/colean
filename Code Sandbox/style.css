@@ -79,4 +79,5 @@ body {
 }
 
 /* Base styling for code editor textareas */
-textarea {
+textarea {
+    background-color: #2d3748; /* Editor background */
