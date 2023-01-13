@@ -83,4 +83,5 @@ textarea {
     background-color: #2d3748; /* Editor background */
     border-color: #4a5568; /* Border color */
     color: #e2e8f0; /* Text color */
-    font-family: 'Fira Code', 'Roboto Mono', monospace; /* A common font for code */
+    font-family: 'Fira Code', 'Roboto Mono', monospace; /* A common font for code */
+    resize: none;
