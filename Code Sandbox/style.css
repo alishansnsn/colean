@@ -88,4 +88,5 @@ textarea {
     transition: all 0.2s ease-in-out;
 }
 
-/* Focus state for textareas */
+/* Focus state for textareas */
+textarea:focus {
