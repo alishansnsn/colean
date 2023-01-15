@@ -87,4 +87,5 @@ textarea {
     resize: none;
     transition: all 0.2s ease-in-out;
 }
-
+
+/* Focus state for textareas */
