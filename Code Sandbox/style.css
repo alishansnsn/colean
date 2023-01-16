@@ -89,4 +89,5 @@ textarea {
 }
 
 /* Focus state for textareas */
-textarea:focus {
+textarea:focus {
+    outline: none;
