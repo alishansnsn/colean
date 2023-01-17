@@ -92,4 +92,5 @@ textarea {
 textarea:focus {
     outline: none;
     border-color: #63b3ed;
-    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
+}
