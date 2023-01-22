@@ -101,4 +101,5 @@ textarea:focus {
 }
 
 /* Custom scrollbar styles for a better look */
-::-webkit-scrollbar {
+::-webkit-scrollbar {
+    width: 8px;
