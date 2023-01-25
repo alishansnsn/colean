@@ -105,4 +105,5 @@ textarea:focus {
     width: 8px;
     height: 8px;
 }
-::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
+    background: #2d3748;
