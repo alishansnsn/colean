@@ -107,4 +107,5 @@ textarea:focus {
 }
 ::-webkit-scrollbar-track {
     background: #2d3748;
-}
+}
+::-webkit-scrollbar-thumb {
