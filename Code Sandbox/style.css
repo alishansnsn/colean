@@ -109,4 +109,5 @@ textarea:focus {
     background: #2d3748;
 }
 ::-webkit-scrollbar-thumb {
-    background: #4a5568;
+    background: #4a5568;
+    border-radius: 4px;
