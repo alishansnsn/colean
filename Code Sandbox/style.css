@@ -113,4 +113,5 @@ textarea:focus {
     border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #718096;
+    background: #718096;
+}
