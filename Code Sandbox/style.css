@@ -119,4 +119,5 @@ textarea:focus {
 /* Modal styling */
 .modal {
     transition: opacity 0.3s ease-in-out;
-}
+}
+.modal-content {
