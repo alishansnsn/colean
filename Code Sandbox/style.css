@@ -121,4 +121,5 @@ textarea:focus {
     transition: opacity 0.3s ease-in-out;
 }
 .modal-content {
-    animation: fadeInScale 0.3s ease-in-out;
+    animation: fadeInScale 0.3s ease-in-out;
+}
