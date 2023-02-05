@@ -125,4 +125,5 @@ textarea:focus {
 }
 
 @keyframes fadeInScale {
-    from {
+    from {
+        opacity: 0;
