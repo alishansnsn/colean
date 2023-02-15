@@ -123,3 +123,4 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center; // updated
+    min-height: 100vh;
