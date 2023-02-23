@@ -136,4 +136,5 @@ header {
 }
 
 main { // updated
-    display: flex;
+    display: flex;
+    flex-direction: column; // updated
