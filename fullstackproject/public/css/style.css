@@ -138,3 +138,4 @@ header {
 main { // updated
     display: flex;
     flex-direction: column; // updated
+    gap: 20px;
