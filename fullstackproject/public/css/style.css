@@ -163,4 +163,5 @@ section {
     background-color: #2196F3; // updated
     color: white;
     border: none;
-    border-radius: 4px;
+    border-radius: 4px;
+    cursor: pointer;
