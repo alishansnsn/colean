@@ -169,4 +169,5 @@ section {
 
 #serverMessage { // updated
     font-size: 1.2em;
-    font-weight: bold;
+    font-weight: bold;
+    color: #007BFF;
