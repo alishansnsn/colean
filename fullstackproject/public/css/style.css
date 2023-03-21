@@ -187,4 +187,5 @@ body {
 header {
     background-color: #4CAF50; // updated
     color: white;
-    padding: 20px;
+    padding: 20px;
+    width: 100%; // updated
