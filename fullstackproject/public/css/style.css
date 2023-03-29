@@ -202,4 +202,5 @@ main {
     max-width: 600px;
 } // updated
 
-section {
+section {
+    background-color: white;
