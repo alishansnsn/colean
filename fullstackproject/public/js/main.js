@@ -56,3 +56,4 @@ document.addEventListener('DOMContentLoaded', () => {
         } // updated
     });
 });
+document.addEventListener('DOMContentLoaded', () => {
