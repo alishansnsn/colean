@@ -56,4 +56,5 @@ document.addEventListener('DOMContentLoaded', () => {
         } // updated
     });
 });
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
+    const dataInput = document.getElementById('dataInput');
