@@ -62,3 +62,4 @@ document.addEventListener('DOMContentLoaded', () => {
     const serverMessage = document.getElementById('serverMessage');
 // minor change added
     sendBtn.addEventListener('click', async () => { // updated // updated
+        const dataToSend = dataInput.value; // updated // updated // updated
