@@ -61,3 +61,4 @@ document.addEventListener('DOMContentLoaded', () => {
     const sendBtn = document.getElementById('sendBtn');
     const serverMessage = document.getElementById('serverMessage');
 // minor change added
+    sendBtn.addEventListener('click', async () => { // updated // updated
