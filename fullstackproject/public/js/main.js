@@ -67,4 +67,5 @@ document.addEventListener('DOMContentLoaded', () => {
             alert('Please enter some data!');
             return; // updated
         }
-
+
+        try {
