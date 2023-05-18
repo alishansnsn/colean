@@ -68,4 +68,5 @@ document.addEventListener('DOMContentLoaded', () => {
             return; // updated
         }
 
-        try {
+        try {
+            const response = await fetch('/api/data', {
