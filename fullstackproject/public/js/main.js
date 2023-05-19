@@ -70,4 +70,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
         try {
             const response = await fetch('/api/data', {
-                method: 'POST',
+                method: 'POST',
+                headers: {
