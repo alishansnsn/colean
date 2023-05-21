@@ -75,4 +75,5 @@ document.addEventListener('DOMContentLoaded', () => {
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({ message: dataToSend }), // updated
-            });
+            });
+            
