@@ -84,3 +84,4 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error('Error:', error); // updated
         }
     }); // updated
+});
