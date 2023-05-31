@@ -97,3 +97,4 @@ document.addEventListener('DOMContentLoaded', () => {
             return; // updated
         }
 // minor change added
+        try {
