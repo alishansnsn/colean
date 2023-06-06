@@ -107,3 +107,4 @@ document.addEventListener('DOMContentLoaded', () => {
             });
             
             const result = await response.json(); // updated // updated
+            serverMessage.textContent = `Server said: "${result.serverResponse}"`;
