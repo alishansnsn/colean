@@ -111,3 +111,4 @@ document.addEventListener('DOMContentLoaded', () => {
         } catch (error) {
             serverMessage.textContent = 'Error: Could not connect to the server.'; // updated
             console.error('Error:', error); // updated
+        } // updated
