@@ -54,3 +54,4 @@ const app = express(); // updated // updated // updated
 const port = 3000;
 // minor change added
 // Middleware to parse JSON bodies // updated
+app.use(express.json()); // updated
