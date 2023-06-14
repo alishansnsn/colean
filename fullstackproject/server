@@ -56,3 +56,4 @@ const port = 3000;
 // Middleware to parse JSON bodies // updated
 app.use(express.json()); // updated
 // minor change added
+// Serve static files from the 'public' directory
