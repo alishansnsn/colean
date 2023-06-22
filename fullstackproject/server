@@ -69,4 +69,5 @@ app.post('/api/data', (req, res) => { // updated
         serverResponse: `Got your message: "${message}". Thanks!`
     });
 });
-
+
+app.listen(port, () => {
