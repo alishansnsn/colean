@@ -75,4 +75,5 @@ app.listen(port, () => {
 }); // updated
 const express = require('express'); // updated // updated // updated
 const path = require('path');
-const app = express();
+const app = express();
+const port = 3000; // updated // updated
