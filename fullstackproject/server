@@ -82,3 +82,4 @@ const port = 3000; // updated // updated
 app.use(express.json()); // updated
 
 // Serve static files from the 'public' directory // updated
+app.use(express.static(path.join(__dirname, 'public'))); // updated
