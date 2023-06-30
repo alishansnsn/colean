@@ -85,3 +85,4 @@ app.use(express.json()); // updated
 app.use(express.static(path.join(__dirname, 'public'))); // updated
 
 // API Endpoint // updated // updated
+app.post('/api/data', (req, res) => { // updated // updated
