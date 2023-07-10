@@ -161,7 +161,7 @@ function saveCode() {
     }
 }
 
-
+// minor change added
 function loadCode() {
     const savedHtml = localStorage.getItem('sandboxHtml'); // updated
     const savedCss = localStorage.getItem('sandboxCss');
