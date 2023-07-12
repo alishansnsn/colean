@@ -52,7 +52,7 @@ function saveCode() {
 
 
 function loadCode() {
-    const savedHtml = localStorage.getItem('sandboxHtml');
+    const savedHtml = localStorage.getItem('sandboxHtml'); // updated
     const savedCss = localStorage.getItem('sandboxCss');
     const savedJs = localStorage.getItem('sandboxJs');
 
