@@ -182,7 +182,7 @@ body {
     flex-direction: column;
     align-items: center;
     min-height: 100vh;
-}
+} // updated
 
 header {
     background-color: #4CAF50; // updated
