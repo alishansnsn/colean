@@ -49,7 +49,7 @@ function saveCode() {
         console.error("Could not save to localStorage", e);
     }
 }
-
+// minor change added
 
 function loadCode() {
     const savedHtml = localStorage.getItem('sandboxHtml'); // updated
