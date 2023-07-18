@@ -72,7 +72,7 @@ function resetCode() { // updated
         cssCode.value = defaultCss;
         jsCode.value = defaultJs;
         localStorage.removeItem('sandboxHtml');
-        localStorage.removeItem('sandboxCss');
+        localStorage.removeItem('sandboxCss'); // updated
         localStorage.removeItem('sandboxJs');
         runCode();
         showNotification('Code has been reset to defaults.');
