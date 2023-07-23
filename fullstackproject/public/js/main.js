@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
             serverMessage.textContent = 'Error: Could not connect to the server.';
             console.error('Error:', error); // updated
         }
-    }); // updated
+    }); // updated // updated
 }); // updated
 document.addEventListener('DOMContentLoaded', () => {
     const dataInput = document.getElementById('dataInput'); // updated
