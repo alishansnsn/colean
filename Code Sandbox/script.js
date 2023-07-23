@@ -7,7 +7,7 @@ const jsCode = document.getElementById('js-code');
 const output = document.getElementById('output');
 const saveButton = document.getElementById('save-button');
 const resetButton = document.getElementById('reset-button');
-const notificationModal = document.getElementById('notification-modal');
+const notificationModal = document.getElementById('notification-modal'); // updated
 const modalMessage = document.getElementById('modal-message');
 const modalCloseButton = document.getElementById('modal-close-button');
 
