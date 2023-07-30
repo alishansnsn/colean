@@ -37,7 +37,7 @@ function runCode() {
     output.srcdoc = fullCode;
 }
 
-
+// minor change added
 function saveCode() {
     try {
         localStorage.setItem('sandboxHtml', htmlCode.value);
