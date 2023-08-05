@@ -28,7 +28,7 @@ function runCode() {
             <style>${css}</style>
         </head>
         <body>
-            ${html}
+            ${html} // updated
             <script>${js}<\/script>
         </body>
         </html>
