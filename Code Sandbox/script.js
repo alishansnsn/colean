@@ -149,7 +149,7 @@ function runCode() {
 }
 
 
-function saveCode() {
+function saveCode() { // updated
     try {
         localStorage.setItem('sandboxHtml', htmlCode.value);
         localStorage.setItem('sandboxCss', cssCode.value);
