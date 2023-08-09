@@ -24,7 +24,7 @@ function runCode() {
     const fullCode = `
         <!DOCTYPE html>
         <html>
-        <head>
+        <head> // updated
             <style>${css}</style>
         </head>
         <body>
