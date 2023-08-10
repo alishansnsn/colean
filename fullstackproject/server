@@ -68,7 +68,7 @@ app.post('/api/data', (req, res) => { // updated
     res.json({
         serverResponse: `Got your message: "${message}". Thanks!`
     });
-});
+}); // updated
 
 app.listen(port, () => {
     console.log(`Server is running at http://localhost:${port}`);
