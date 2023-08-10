@@ -33,7 +33,7 @@ function runCode() {
         </body>
         </html>
     `;
-    
+// minor change added
     output.srcdoc = fullCode;
 }
 
