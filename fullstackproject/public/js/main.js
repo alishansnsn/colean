@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         try {
             const response = await fetch('/api/data', {
                 method: 'POST',
-                headers: {
+                headers: { // updated
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({ message: dataToSend }), // updated
