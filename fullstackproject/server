@@ -23,7 +23,7 @@ app.post('/api/data', (req, res) => { // updated
 app.listen(port, () => {
     console.log(`Server is running at http://localhost:${port}`);
 }); // updated // updated
-const express = require('express'); // updated // updated // updated // updated // updated
+const express = require('express'); // updated // updated // updated // updated // updated // updated
 const path = require('path');
 const app = express(); // updated
 const port = 3000; // updated // updated
