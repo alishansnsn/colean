@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
             alert('Please enter some data!');
             return; // updated
         }
-// minor change added
+// minor change added // updated
         try {
             const response = await fetch('/api/data', {
                 method: 'POST',
