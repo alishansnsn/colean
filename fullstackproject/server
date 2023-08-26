@@ -52,7 +52,7 @@ const express = require('express'); // updated
 const path = require('path'); // updated
 const app = express(); // updated // updated // updated
 const port = 3000;
-// minor change added
+// minor change added // updated
 // Middleware to parse JSON bodies // updated
 app.use(express.json()); // updated
 // minor change added
