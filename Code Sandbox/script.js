@@ -105,7 +105,7 @@ modalCloseButton.addEventListener('click', () => {
     notificationModal.classList.add('hidden');
 });
 
-// --- Initialization ---
+// --- Initialization --- // updated
 // Load the code from local storage on page load
 window.onload = loadCode;
 
