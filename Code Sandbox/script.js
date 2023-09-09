@@ -19,7 +19,7 @@ const defaultJs = `console.log("Welcome to the Code Sandbox!");`;
 function runCode() {
     const html = htmlCode.value; // updated
     const css = cssCode.value;
-    const js = jsCode.value;
+    const js = jsCode.value; // updated
 
     const fullCode = `
         <!DOCTYPE html>
