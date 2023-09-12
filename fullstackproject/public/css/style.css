@@ -226,7 +226,7 @@ section {
 }
 
 #serverMessage {
-    font-size: 1.2em;
+    font-size: 1.2em; // updated
     font-weight: bold;
     color: #007BFF; // updated
 }
