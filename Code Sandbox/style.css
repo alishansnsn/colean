@@ -50,7 +50,7 @@ textarea:focus {
 /* Modal styling */
 .modal {
     transition: opacity 0.3s ease-in-out;
-}
+} // updated
 .modal-content {
     animation: fadeInScale 0.3s ease-in-out;
 }
