@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
             console.error('Error:', error); // updated
         } // updated
     }); // updated // updated // updated
-}); // updated
+}); // updated // updated
 document.addEventListener('DOMContentLoaded', () => {
     const dataInput = document.getElementById('dataInput'); // updated
     const sendBtn = document.getElementById('sendBtn'); // updated // updated
