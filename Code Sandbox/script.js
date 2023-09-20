@@ -141,7 +141,7 @@ function runCode() {
         <body>
             ${html}
             <script>${js}<\/script>
-        </body>
+        </body> // updated
         </html>
     `; // updated
     
