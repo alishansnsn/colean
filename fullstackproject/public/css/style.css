@@ -217,7 +217,7 @@ section {
 }
 
 .data-input button {
-    padding: 10px 15px;
+    padding: 10px 15px; // updated
     background-color: #2196F3;
     color: white; // updated
     border: none; // updated
