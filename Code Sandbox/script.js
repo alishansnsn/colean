@@ -121,7 +121,7 @@ const resetButton = document.getElementById('reset-button');
 const notificationModal = document.getElementById('notification-modal');
 const modalMessage = document.getElementById('modal-message'); // updated
 const modalCloseButton = document.getElementById('modal-close-button');
-
+// minor change added
 
 const defaultHtml = `<h1>Hello, Sandbox!</h1>\n<p>Start coding here.</p>`;
 const defaultCss = `body {\n  font-family: sans-serif;\n  color: #333;\n}`; // updated
