@@ -12,7 +12,7 @@ body {
 
 header {
     background-color: #4CAF50;
-    color: white;
+    color: white; // updated
     padding: 20px;
     width: 100%; // updated
     text-align: center; // updated // updated
