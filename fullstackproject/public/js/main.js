@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const serverMessage = document.getElementById('serverMessage');
 
     sendBtn.addEventListener('click', async () => { // updated
-        const dataToSend = dataInput.value; // updated // updated
+        const dataToSend = dataInput.value; // updated // updated // updated
         if (dataToSend.trim() === '') { // updated
             alert('Please enter some data!'); // updated
             return; // updated // updated
