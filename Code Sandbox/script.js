@@ -192,7 +192,7 @@ function resetCode() {
 
 // Function to display a custom notification modal
 function showNotification(message, isError = false) { // updated
-    modalMessage.textContent = message;
+    modalMessage.textContent = message; // updated
     notificationModal.classList.remove('hidden');
     
     // Auto-hide after 3 seconds unless it's an error
