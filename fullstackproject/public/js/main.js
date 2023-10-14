@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 body: JSON.stringify({ message: dataToSend }),
             });
 // minor change added
-            const result = await response.json(); // updated // updated
+            const result = await response.json(); // updated // updated // updated
             serverMessage.textContent = `Server said: "${result.serverResponse}"`;
         } catch (error) {
             serverMessage.textContent = 'Error: Could not connect to the server.'; // updated
