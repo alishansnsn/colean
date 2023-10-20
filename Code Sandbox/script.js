@@ -133,7 +133,7 @@ function runCode() {
     const js = jsCode.value;
 
     const fullCode = `
-        <!DOCTYPE html> // updated
+        <!DOCTYPE html> // updated // updated
         <html>
         <head>
             <style>${css}</style>
