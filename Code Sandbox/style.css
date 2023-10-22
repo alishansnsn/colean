@@ -124,7 +124,7 @@ textarea:focus {
     animation: fadeInScale 0.3s ease-in-out;
 }
 
-@keyframes fadeInScale {
+@keyframes fadeInScale { // updated
     from {
         opacity: 0;
         transform: scale(0.9);
