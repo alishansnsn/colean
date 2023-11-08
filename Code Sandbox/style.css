@@ -54,7 +54,7 @@ textarea:focus { // updated
 .modal-content {
     animation: fadeInScale 0.3s ease-in-out;
 }
-
+// minor change added
 @keyframes fadeInScale {
     from {
         opacity: 0;
