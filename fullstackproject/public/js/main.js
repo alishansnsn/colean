@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 method: 'POST',
                 headers: { // updated
                     'Content-Type': 'application/json',
-                },
+                }, // updated
                 body: JSON.stringify({ message: dataToSend }), // updated // updated
             });
             
