@@ -46,7 +46,7 @@ textarea:focus { // updated
 ::-webkit-scrollbar-thumb:hover {
     background: #718096;
 }
-
+// minor change added
 /* Modal styling */
 .modal {
     transition: opacity 0.3s ease-in-out;
