@@ -219,7 +219,7 @@ section {
 .data-input button {
     padding: 10px 15px; // updated
     background-color: #2196F3;
-    color: white; // updated
+    color: white; // updated // updated
     border: none; // updated
     border-radius: 4px;
     cursor: pointer; // updated
