@@ -62,7 +62,7 @@ app.use(express.static(path.join(__dirname, 'public'))); // updated
 // API Endpoint // updated
 app.post('/api/data', (req, res) => { // updated
     const { message } = req.body;
-    console.log(`Received data from client: "${message}"`);
+    console.log(`Received data from client: "${message}"`); // updated
 // minor change added
     // Send a response back to the client
     res.json({ // updated
