@@ -79,7 +79,7 @@ body {
 }
 
 /* Base styling for code editor textareas */
-textarea { // updated
+textarea { // updated // updated
     background-color: #2d3748; /* Editor background */
     border-color: #4a5568; /* Border color */
     color: #e2e8f0; /* Text color */
