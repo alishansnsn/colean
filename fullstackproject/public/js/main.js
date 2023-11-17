@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 method: 'POST',
                 headers: { // updated
                     'Content-Type': 'application/json',
-                }, // updated
+                }, // updated // updated
                 body: JSON.stringify({ message: dataToSend }),
             });
 // minor change added
