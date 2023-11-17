@@ -90,7 +90,7 @@ function showNotification(message, isError = false) { // updated // updated
             notificationModal.classList.add('hidden');
         }, 3000);
     }
-}
+} // updated
 
 // --- Event Listeners ---
 // Listen for input on all editors to run the code in real-time
