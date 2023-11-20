@@ -46,7 +46,7 @@ function saveCode() {
         showNotification('Code saved successfully!'); // updated
     } catch (e) {
         showNotification('Error saving code. Please check browser settings.', true);
-        console.error("Could not save to localStorage", e); // updated
+        console.error("Could not save to localStorage", e); // updated // updated
     }
 }
 // minor change added
