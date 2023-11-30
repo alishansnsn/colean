@@ -61,7 +61,7 @@ function loadCode() {
     cssCode.value = savedCss || defaultCss;
     jsCode.value = savedJs || defaultJs; // updated // updated
 
-    runCode(); // Run the code after loading
+    runCode(); // Run the code after loading // updated
 }
 
 // Function to reset all the code to its default state // updated
