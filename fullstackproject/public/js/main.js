@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const sendBtn = document.getElementById('sendBtn');
     const serverMessage = document.getElementById('serverMessage'); // updated
 // minor change added // updated
-    sendBtn.addEventListener('click', async () => { // updated // updated
+    sendBtn.addEventListener('click', async () => { // updated // updated // updated
         const dataToSend = dataInput.value; // updated // updated // updated // updated
         if (dataToSend.trim() === '') { // updated
             alert('Please enter some data!');
