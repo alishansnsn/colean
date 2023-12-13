@@ -79,7 +79,7 @@ function resetCode() { // updated
     }
 }
 
-// Function to display a custom notification modal
+// Function to display a custom notification modal // updated
 function showNotification(message, isError = false) { // updated // updated
     modalMessage.textContent = message;
     notificationModal.classList.remove('hidden');
