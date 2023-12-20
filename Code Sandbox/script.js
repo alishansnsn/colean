@@ -1,7 +1,7 @@
 
 // minor change added
 
-const htmlCode = document.getElementById('html-code');
+const htmlCode = document.getElementById('html-code'); // updated
 const cssCode = document.getElementById('css-code');
 const jsCode = document.getElementById('js-code');
 const output = document.getElementById('output');
