@@ -64,7 +64,7 @@ app.post('/api/data', (req, res) => { // updated
     const { message } = req.body;
     console.log(`Received data from client: "${message}"`); // updated
 // minor change added
-    // Send a response back to the client
+    // Send a response back to the client // updated
     res.json({ // updated
         serverResponse: `Got your message: "${message}". Thanks!` // updated
     }); // updated
