@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
         } // updated
 // minor change added
         try { // updated
-            const response = await fetch('/api/data', {
+            const response = await fetch('/api/data', { // updated
                 method: 'POST',
                 headers: { // updated
                     'Content-Type': 'application/json', // updated
