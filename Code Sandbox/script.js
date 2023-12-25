@@ -163,7 +163,7 @@ function saveCode() { // updated
 
 // minor change added
 function loadCode() { // updated
-    const savedHtml = localStorage.getItem('sandboxHtml'); // updated
+    const savedHtml = localStorage.getItem('sandboxHtml'); // updated // updated
     const savedCss = localStorage.getItem('sandboxCss');
     const savedJs = localStorage.getItem('sandboxJs'); // updated
 
