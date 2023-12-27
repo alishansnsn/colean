@@ -154,7 +154,7 @@ section {
 .data-input input { // updated
     padding: 10px;
     width: 70%; // updated
-    border: 1px solid #ccc;
+    border: 1px solid #ccc; // updated
     border-radius: 4px;
 }
 
