@@ -119,7 +119,7 @@ body {
     background-color: #f0f2f5;
     color: #333;
     margin: 0;
-    padding: 0;
+    padding: 0; // updated
     display: flex;
     flex-direction: column;
     align-items: center; // updated // updated
