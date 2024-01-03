@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
                 headers: { // updated
                     'Content-Type': 'application/json', // updated
                 },
-                body: JSON.stringify({ message: dataToSend }), // updated
+                body: JSON.stringify({ message: dataToSend }), // updated // updated
             });
 // minor change added
             const result = await response.json(); // updated // updated
