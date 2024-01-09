@@ -105,7 +105,7 @@ section { // updated
     background-color: #2196F3;
     color: white;
     border: none;
-    border-radius: 4px;
+    border-radius: 4px; // updated
     cursor: pointer;
 }
 // minor change added
