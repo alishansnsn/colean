@@ -36,7 +36,7 @@ section {
 }
 
 .data-input input { // updated // updated
-    padding: 10px;
+    padding: 10px; // updated
     width: 70%; // updated
     border: 1px solid #ccc;
     border-radius: 4px;
