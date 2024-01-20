@@ -117,7 +117,7 @@ const cssCode = document.getElementById('css-code');
 const jsCode = document.getElementById('js-code');
 const output = document.getElementById('output');
 const saveButton = document.getElementById('save-button');
-const resetButton = document.getElementById('reset-button');
+const resetButton = document.getElementById('reset-button'); // updated
 const notificationModal = document.getElementById('notification-modal');
 const modalMessage = document.getElementById('modal-message'); // updated
 const modalCloseButton = document.getElementById('modal-close-button');
