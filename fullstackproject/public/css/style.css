@@ -209,7 +209,7 @@ section { // updated // updated
     box-shadow: 0 4px 6px rgba(0,0,0,0.1); // updated
 } // updated
 // minor change added
-.data-input input {
+.data-input input { // updated
     padding: 10px; // updated
     width: 70%; // updated
     border: 1px solid #ccc; // updated // updated // updated
