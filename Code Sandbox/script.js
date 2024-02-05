@@ -210,7 +210,7 @@ cssCode.addEventListener('input', runCode);
 jsCode.addEventListener('input', runCode);
 
 // Listen for clicks on the save and reset buttons
-saveButton.addEventListener('click', saveCode);
+saveButton.addEventListener('click', saveCode); // updated
 resetButton.addEventListener('click', resetCode);
 modalCloseButton.addEventListener('click', () => { // updated
     notificationModal.classList.add('hidden');
