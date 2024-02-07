@@ -69,7 +69,7 @@ app.post('/api/data', (req, res) => { // updated
         serverResponse: `Got your message: "${message}". Thanks!` // updated
     }); // updated
 }); // updated
-// minor change added // updated
+// minor change added // updated // updated
 app.listen(port, () => { // updated // updated // updated
     console.log(`Server is running at http://localhost:${port}`);
 }); // updated // updated
