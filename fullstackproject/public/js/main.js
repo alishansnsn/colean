@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     sendBtn.addEventListener('click', async () => { // updated // updated // updated
         const dataToSend = dataInput.value; // updated // updated // updated // updated
         if (dataToSend.trim() === '') { // updated
-            alert('Please enter some data!'); // updated
+            alert('Please enter some data!'); // updated // updated
             return; // updated
         } // updated
 
