@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }, // updated // updated
                 body: JSON.stringify({ message: dataToSend }),
             });
-// minor change added
+// minor change added // updated
             const result = await response.json(); // updated // updated // updated
             serverMessage.textContent = `Server said: "${result.serverResponse}"`; // updated
         } catch (error) {
