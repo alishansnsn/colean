@@ -216,7 +216,7 @@ section { // updated // updated
     border-radius: 4px;
 } // updated
 // minor change added
-.data-input button {
+.data-input button { // updated
     padding: 10px 15px; // updated
     background-color: #2196F3;
     color: white; // updated // updated
