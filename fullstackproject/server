@@ -72,7 +72,7 @@ app.post('/api/data', (req, res) => { // updated
 // minor change added // updated // updated
 app.listen(port, () => { // updated // updated // updated
     console.log(`Server is running at http://localhost:${port}`);
-}); // updated // updated
+}); // updated // updated // updated
 const express = require('express'); // updated // updated // updated
 const path = require('path');
 const app = express();
