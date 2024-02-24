@@ -28,7 +28,7 @@ const path = require('path');
 const app = express(); // updated // updated // updated // updated
 const port = 3000; // updated // updated
 // minor change added
-// Middleware to parse JSON bodies
+// Middleware to parse JSON bodies // updated
 app.use(express.json()); // updated // updated
 // minor change added // updated
 // Serve static files from the 'public' directory // updated // updated
