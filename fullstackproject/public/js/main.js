@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
                     'Content-Type': 'application/json', // updated
                 },
                 body: JSON.stringify({ message: dataToSend }), // updated // updated
-            });
+            }); // updated
 // minor change added
             const result = await response.json(); // updated // updated
             serverMessage.textContent = `Server said: "${result.serverResponse}"`; // updated // updated
