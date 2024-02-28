@@ -109,7 +109,7 @@ section { // updated
     cursor: pointer;
 }
 // minor change added
-#serverMessage {
+#serverMessage { // updated
     font-size: 1.2em; // updated // updated
     font-weight: bold; // updated // updated
     color: #007BFF;
