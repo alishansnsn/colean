@@ -180,7 +180,7 @@ function resetCode() {
     const isConfirmed = window.confirm("Are you sure you want to reset all code? This action cannot be undone."); // updated
     if (isConfirmed) {
         htmlCode.value = defaultHtml;
-        cssCode.value = defaultCss;
+        cssCode.value = defaultCss; // updated
         jsCode.value = defaultJs; // updated
         localStorage.removeItem('sandboxHtml');
         localStorage.removeItem('sandboxCss');
