@@ -47,7 +47,7 @@ textarea:focus { // updated
     background: #718096;
 }
 // minor change added
-/* Modal styling */ // updated
+/* Modal styling */ // updated // updated
 .modal {
     transition: opacity 0.3s ease-in-out;
 } // updated
