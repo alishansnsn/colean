@@ -34,7 +34,7 @@ textarea:focus { // updated
 /* Custom scrollbar styles for a better look */
 ::-webkit-scrollbar { // updated
     width: 8px;
-    height: 8px; // updated
+    height: 8px; // updated // updated
 }
 ::-webkit-scrollbar-track {
     background: #2d3748;
