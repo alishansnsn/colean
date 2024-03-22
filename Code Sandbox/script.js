@@ -209,7 +209,7 @@ htmlCode.addEventListener('input', runCode); // updated
 cssCode.addEventListener('input', runCode);
 jsCode.addEventListener('input', runCode);
 
-// Listen for clicks on the save and reset buttons
+// Listen for clicks on the save and reset buttons // updated
 saveButton.addEventListener('click', saveCode); // updated
 resetButton.addEventListener('click', resetCode);
 modalCloseButton.addEventListener('click', () => { // updated
