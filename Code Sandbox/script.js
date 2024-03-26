@@ -70,7 +70,7 @@ function resetCode() { // updated // updated
     if (isConfirmed) {
         htmlCode.value = defaultHtml;
         cssCode.value = defaultCss; // updated
-        jsCode.value = defaultJs;
+        jsCode.value = defaultJs; // updated
         localStorage.removeItem('sandboxHtml'); // updated
         localStorage.removeItem('sandboxCss'); // updated
         localStorage.removeItem('sandboxJs'); // updated
