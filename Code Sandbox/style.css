@@ -42,7 +42,7 @@ textarea:focus { // updated
 ::-webkit-scrollbar-thumb {
     background: #4a5568; // updated
     border-radius: 4px;
-}
+} // updated
 ::-webkit-scrollbar-thumb:hover {
     background: #718096;
 }
