@@ -6,7 +6,7 @@ body {
     padding: 0;
     display: flex; // updated
     flex-direction: column;
-    align-items: center; // updated
+    align-items: center; // updated // updated
     min-height: 100vh; // updated
 }
 
