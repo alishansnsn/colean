@@ -2,7 +2,7 @@
 // minor change added // updated
 
 const htmlCode = document.getElementById('html-code'); // updated
-const cssCode = document.getElementById('css-code');
+const cssCode = document.getElementById('css-code'); // updated
 const jsCode = document.getElementById('js-code');
 const output = document.getElementById('output');
 const saveButton = document.getElementById('save-button');
