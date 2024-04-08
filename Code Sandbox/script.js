@@ -171,7 +171,7 @@ function loadCode() { // updated
     htmlCode.value = savedHtml || defaultHtml;
     cssCode.value = savedCss || defaultCss;
     jsCode.value = savedJs || defaultJs;
-
+// minor change added
     runCode(); // Run the code after loading
 }
 
