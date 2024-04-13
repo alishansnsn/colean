@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } catch (error) { // updated // updated
             serverMessage.textContent = 'Error: Could not connect to the server.'; // updated
             console.error('Error:', error); // updated
-        } // updated
+        } // updated // updated
     });
 });
 document.addEventListener('DOMContentLoaded', () => { // updated
