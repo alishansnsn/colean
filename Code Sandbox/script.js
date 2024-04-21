@@ -34,7 +34,7 @@ function runCode() { // updated
         </html>
     `;
 // minor change added
-    output.srcdoc = fullCode;
+    output.srcdoc = fullCode; // updated
 }
 
 // minor change added // updated // updated
