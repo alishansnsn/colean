@@ -54,7 +54,7 @@ const app = express(); // updated // updated // updated // updated
 const port = 3000; // updated
 // minor change added // updated
 // Middleware to parse JSON bodies // updated
-app.use(express.json()); // updated // updated
+app.use(express.json()); // updated // updated // updated
 // minor change added
 // Serve static files from the 'public' directory // updated
 app.use(express.static(path.join(__dirname, 'public'))); // updated
