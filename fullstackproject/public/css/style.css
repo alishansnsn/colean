@@ -63,7 +63,7 @@ body { // updated
     margin: 0; // updated
     padding: 0; // updated // updated
     display: flex;
-    flex-direction: column;
+    flex-direction: column; // updated
     align-items: center;
     min-height: 100vh;
 }
