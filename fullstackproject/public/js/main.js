@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
     const sendBtn = document.getElementById('sendBtn');
     const serverMessage = document.getElementById('serverMessage');
 // minor change added
-    sendBtn.addEventListener('click', async () => { // updated // updated
+    sendBtn.addEventListener('click', async () => { // updated // updated // updated
         const dataToSend = dataInput.value; // updated // updated // updated // updated
         if (dataToSend.trim() === '') { // updated
             alert('Please enter some data!');
