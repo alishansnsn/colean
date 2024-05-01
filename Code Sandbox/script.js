@@ -1,5 +1,5 @@
 
-// minor change added // updated
+// minor change added // updated // updated
 
 const htmlCode = document.getElementById('html-code'); // updated
 const cssCode = document.getElementById('css-code'); // updated
