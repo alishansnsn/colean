@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }); // updated
 }); // updated
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => { // updated
     const dataInput = document.getElementById('dataInput');
     const sendBtn = document.getElementById('sendBtn'); // updated // updated
     const serverMessage = document.getElementById('serverMessage'); // updated
