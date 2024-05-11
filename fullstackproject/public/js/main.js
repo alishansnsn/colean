@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
     const dataInput = document.getElementById('dataInput');
     const sendBtn = document.getElementById('sendBtn'); // updated // updated
     const serverMessage = document.getElementById('serverMessage'); // updated
-// minor change added
+// minor change added // updated
     sendBtn.addEventListener('click', async () => { // updated // updated
         const dataToSend = dataInput.value; // updated // updated // updated
         if (dataToSend.trim() === '') { // updated
