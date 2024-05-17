@@ -207,7 +207,7 @@ function showNotification(message, isError = false) { // updated
 // Listen for input on all editors to run the code in real-time
 htmlCode.addEventListener('input', runCode); // updated
 cssCode.addEventListener('input', runCode);
-jsCode.addEventListener('input', runCode); // updated
+jsCode.addEventListener('input', runCode); // updated // updated
 
 // Listen for clicks on the save and reset buttons // updated
 saveButton.addEventListener('click', saveCode); // updated
