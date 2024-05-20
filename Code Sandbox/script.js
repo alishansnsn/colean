@@ -30,7 +30,7 @@ function runCode() { // updated
         <body> // updated // updated
             ${html} // updated // updated
             <script>${js}<\/script>
-        </body>
+        </body> // updated
         </html>
     `;
 // minor change added
