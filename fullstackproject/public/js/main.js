@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }); // updated
 }); // updated // updated // updated
 document.addEventListener('DOMContentLoaded', () => { // updated
-    const dataInput = document.getElementById('dataInput');
+    const dataInput = document.getElementById('dataInput'); // updated
     const sendBtn = document.getElementById('sendBtn'); // updated // updated
     const serverMessage = document.getElementById('serverMessage'); // updated
 // minor change added // updated
