@@ -22,7 +22,7 @@ function runCode() { // updated
     const js = jsCode.value; // updated
 
     const fullCode = `
-        <!DOCTYPE html> // updated
+        <!DOCTYPE html> // updated // updated
         <html>
         <head> // updated
             <style>${css}</style>
