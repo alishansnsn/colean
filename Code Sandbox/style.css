@@ -95,7 +95,7 @@ textarea:focus { // updated
     box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
 }
 
-.output-panel { // updated
+.output-panel { // updated // updated
     background-color: #ffffff;
     border-color: #4a5568; // updated
 }
