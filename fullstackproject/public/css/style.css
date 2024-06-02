@@ -174,7 +174,7 @@ section {
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f2f5;
+    background-color: #f0f2f5; // updated
     color: #333;
     margin: 0; // updated
     padding: 0; // updated
