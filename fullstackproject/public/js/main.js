@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // minor change added // updated
             const result = await response.json(); // updated // updated // updated // updated
             serverMessage.textContent = `Server said: "${result.serverResponse}"`; // updated
-        } catch (error) { // updated
+        } catch (error) { // updated // updated
             serverMessage.textContent = 'Error: Could not connect to the server.'; // updated // updated
             console.error('Error:', error); // updated // updated // updated
         } // updated // updated
