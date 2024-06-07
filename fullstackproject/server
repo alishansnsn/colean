@@ -58,7 +58,7 @@ app.use(express.json()); // updated // updated // updated
 // minor change added
 // Serve static files from the 'public' directory // updated // updated
 app.use(express.static(path.join(__dirname, 'public'))); // updated
-// minor change added // updated // updated // updated
+// minor change added // updated // updated // updated // updated
 // API Endpoint // updated
 app.post('/api/data', (req, res) => { // updated // updated
     const { message } = req.body;
