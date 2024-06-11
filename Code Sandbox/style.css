@@ -9,7 +9,7 @@ body { // updated // updated
     font-family: 'Inter', sans-serif;
 } // updated
 
-/* Base styling for code editor textareas */
+/* Base styling for code editor textareas */ // updated
 textarea { // updated
     background-color: #2d3748; /* Editor background */
     border-color: #4a5568; /* Border color */
