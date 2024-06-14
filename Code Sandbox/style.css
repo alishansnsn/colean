@@ -37,7 +37,7 @@ textarea:focus { // updated
     height: 8px; // updated // updated
 }
 ::-webkit-scrollbar-track { // updated
-    background: #2d3748;
+    background: #2d3748; // updated
 }
 ::-webkit-scrollbar-thumb {
     background: #4a5568; // updated // updated
