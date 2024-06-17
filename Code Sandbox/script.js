@@ -144,7 +144,7 @@ function runCode() {
         </body> // updated
         </html>
     `; // updated
-    
+// minor change added
     output.srcdoc = fullCode;
 }
 
