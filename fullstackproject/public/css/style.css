@@ -62,7 +62,7 @@ body { // updated
     color: #333;
     margin: 0; // updated
     padding: 0; // updated // updated
-    display: flex;
+    display: flex; // updated
     flex-direction: column; // updated
     align-items: center;
     min-height: 100vh;
