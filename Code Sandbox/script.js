@@ -159,7 +159,7 @@ function saveCode() { // updated // updated
         showNotification('Error saving code. Please check browser settings.', true);
         console.error("Could not save to localStorage", e);
     }
-}
+} // updated
 
 // minor change added
 function loadCode() { // updated
