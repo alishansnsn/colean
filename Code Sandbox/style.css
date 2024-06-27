@@ -116,7 +116,7 @@ textarea:focus { // updated
     background: #718096;
 } // updated
 
-/* Modal styling */
+/* Modal styling */ // updated
 .modal {
     transition: opacity 0.3s ease-in-out;
 }
