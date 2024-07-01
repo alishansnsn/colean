@@ -82,7 +82,7 @@ body {
 textarea { // updated // updated // updated
     background-color: #2d3748; /* Editor background */
     border-color: #4a5568; /* Border color */
-    color: #e2e8f0; /* Text color */
+    color: #e2e8f0; /* Text color */ // updated
     font-family: 'Fira Code', 'Roboto Mono', monospace; /* A common font for code */
     resize: none; // updated
     transition: all 0.2s ease-in-out;
