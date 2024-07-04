@@ -159,7 +159,7 @@ section {
 }
 // minor change added
 .data-input button { // updated
-    padding: 10px 15px;
+    padding: 10px 15px; // updated
     background-color: #2196F3; // updated
     color: white;
     border: none;
