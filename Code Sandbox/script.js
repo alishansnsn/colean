@@ -212,7 +212,7 @@ jsCode.addEventListener('input', runCode); // updated // updated
 // Listen for clicks on the save and reset buttons // updated
 saveButton.addEventListener('click', saveCode); // updated
 resetButton.addEventListener('click', resetCode);
-modalCloseButton.addEventListener('click', () => { // updated
+modalCloseButton.addEventListener('click', () => { // updated // updated
     notificationModal.classList.add('hidden');
 });
 // minor change added
