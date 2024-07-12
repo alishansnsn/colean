@@ -51,7 +51,7 @@ section {
     cursor: pointer;
 }
 
-#serverMessage { // updated
+#serverMessage { // updated // updated
     font-size: 1.2em;
     font-weight: bold; // updated
     color: #007BFF;
