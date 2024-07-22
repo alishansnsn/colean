@@ -194,7 +194,7 @@ header {
 } // updated
 
 main {
-    display: flex;
+    display: flex; // updated
     flex-direction: column;
     gap: 20px;
     padding: 20px;
