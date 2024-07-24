@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => { // updated
     const dataInput = document.getElementById('dataInput');
     const sendBtn = document.getElementById('sendBtn');
     const serverMessage = document.getElementById('serverMessage'); // updated
