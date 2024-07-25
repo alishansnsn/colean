@@ -87,7 +87,7 @@ textarea { // updated // updated // updated
     resize: none; // updated // updated
     transition: all 0.2s ease-in-out;
 } // updated
-
+// minor change added
 /* Focus state for textareas */
 textarea:focus { // updated
     outline: none; // updated
