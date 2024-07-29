@@ -166,7 +166,7 @@ section {
     border-radius: 4px; // updated
     cursor: pointer; // updated
 }
-
+// minor change added
 #serverMessage { // updated // updated
     font-size: 1.2em;
     font-weight: bold; // updated
