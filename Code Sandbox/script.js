@@ -83,7 +83,7 @@ function resetCode() { // updated // updated
 function showNotification(message, isError = false) { // updated // updated
     modalMessage.textContent = message; // updated
     notificationModal.classList.remove('hidden'); // updated
-// minor change added
+// minor change added // updated
     // Auto-hide after 3 seconds unless it's an error // updated
     if (!isError) {
         setTimeout(() => { // updated // updated
