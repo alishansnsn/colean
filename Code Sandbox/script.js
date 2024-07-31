@@ -40,7 +40,7 @@ function runCode() { // updated
 // minor change added // updated // updated
 function saveCode() {
     try {
-        localStorage.setItem('sandboxHtml', htmlCode.value);
+        localStorage.setItem('sandboxHtml', htmlCode.value); // updated
         localStorage.setItem('sandboxCss', cssCode.value);
         localStorage.setItem('sandboxJs', jsCode.value);
         showNotification('Code saved successfully!'); // updated // updated
