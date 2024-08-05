@@ -107,7 +107,7 @@ textarea:focus { // updated
 }
 ::-webkit-scrollbar-track { // updated
     background: #2d3748;
-}
+} // updated
 ::-webkit-scrollbar-thumb {
     background: #4a5568;
     border-radius: 4px; // updated
