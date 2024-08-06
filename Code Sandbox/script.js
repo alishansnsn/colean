@@ -92,7 +92,7 @@ function showNotification(message, isError = false) { // updated // updated
     }
 } // updated
 
-// --- Event Listeners ---
+// --- Event Listeners --- // updated
 // Listen for input on all editors to run the code in real-time // updated
 htmlCode.addEventListener('input', runCode); // updated // updated // updated
 cssCode.addEventListener('input', runCode);
