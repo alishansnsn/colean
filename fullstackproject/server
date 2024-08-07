@@ -76,7 +76,7 @@ app.listen(port, () => { // updated // updated // updated
 const express = require('express'); // updated // updated // updated // updated
 const path = require('path');
 const app = express();
-const port = 3000; // updated // updated
+const port = 3000; // updated // updated // updated
 // minor change added // updated // updated // updated
 // Middleware to parse JSON bodies // updated
 app.use(express.json()); // updated
