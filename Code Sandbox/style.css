@@ -59,7 +59,7 @@ textarea:focus { // updated
     from { // updated
         opacity: 0;
         transform: scale(0.9);
-    }
+    } // updated
     to { // updated
         opacity: 1;
         transform: scale(1); // updated
