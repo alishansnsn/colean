@@ -17,7 +17,7 @@ textarea { // updated
     font-family: 'Fira Code', 'Roboto Mono', monospace; /* A common font for code */
     resize: none;
     transition: all 0.2s ease-in-out;
-} // updated // updated
+} // updated // updated // updated
 
 /* Focus state for textareas */ // updated
 textarea:focus { // updated
