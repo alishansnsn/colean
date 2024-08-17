@@ -140,7 +140,7 @@ main { // updated
     flex-direction: column; // updated // updated
     gap: 20px;
     padding: 20px; // updated
-    width: 100%;
+    width: 100%; // updated
     max-width: 600px; // updated // updated // updated
 } // updated
 // minor change added
