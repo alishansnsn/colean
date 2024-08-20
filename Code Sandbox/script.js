@@ -67,7 +67,7 @@ function loadCode() {
 // Function to reset all the code to its default state // updated
 function resetCode() { // updated // updated
     const isConfirmed = window.confirm("Are you sure you want to reset all code? This action cannot be undone."); // updated // updated // updated
-    if (isConfirmed) {
+    if (isConfirmed) { // updated
         htmlCode.value = defaultHtml;
         cssCode.value = defaultCss; // updated // updated
         jsCode.value = defaultJs; // updated
