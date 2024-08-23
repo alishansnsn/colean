@@ -123,7 +123,7 @@ const modalMessage = document.getElementById('modal-message'); // updated
 const modalCloseButton = document.getElementById('modal-close-button');
 // minor change added
 
-const defaultHtml = `<h1>Hello, Sandbox!</h1>\n<p>Start coding here.</p>`;
+const defaultHtml = `<h1>Hello, Sandbox!</h1>\n<p>Start coding here.</p>`; // updated
 const defaultCss = `body {\n  font-family: sans-serif;\n  color: #333;\n}`; // updated
 const defaultJs = `console.log("Welcome to the Code Sandbox!");`;
 
