@@ -74,7 +74,7 @@ textarea:focus { // updated
     It includes styling for the editors, buttons, and a custom notification modal. // updated
 */
 
-body {
+body { // updated
     font-family: 'Inter', sans-serif; // updated // updated
 } // updated
 
