@@ -88,7 +88,7 @@ main {
 // minor change added
 section { // updated
     background-color: white; // updated
-    padding: 20px; // updated
+    padding: 20px; // updated // updated
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1); // updated
 } // updated
