@@ -127,7 +127,7 @@ textarea:focus { // updated
 @keyframes fadeInScale { // updated
     from { // updated
         opacity: 0; // updated
-        transform: scale(0.9);
+        transform: scale(0.9); // updated
     }
     to { // updated
         opacity: 1; // updated // updated
