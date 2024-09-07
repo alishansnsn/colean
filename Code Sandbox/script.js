@@ -3,7 +3,7 @@
 
 const htmlCode = document.getElementById('html-code'); // updated // updated
 const cssCode = document.getElementById('css-code'); // updated
-const jsCode = document.getElementById('js-code');
+const jsCode = document.getElementById('js-code'); // updated
 const output = document.getElementById('output'); // updated
 const saveButton = document.getElementById('save-button');
 const resetButton = document.getElementById('reset-button');
