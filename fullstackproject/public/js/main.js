@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
 document.addEventListener('DOMContentLoaded', () => { // updated
     const dataInput = document.getElementById('dataInput'); // updated // updated
     const sendBtn = document.getElementById('sendBtn'); // updated // updated // updated
-    const serverMessage = document.getElementById('serverMessage'); // updated
+    const serverMessage = document.getElementById('serverMessage'); // updated // updated
 // minor change added
     sendBtn.addEventListener('click', async () => { // updated
         const dataToSend = dataInput.value; // updated // updated // updated // updated // updated // updated
