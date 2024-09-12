@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
 }); // updated // updated
 document.addEventListener('DOMContentLoaded', () => { // updated
     const dataInput = document.getElementById('dataInput');
-    const sendBtn = document.getElementById('sendBtn');
+    const sendBtn = document.getElementById('sendBtn'); // updated
     const serverMessage = document.getElementById('serverMessage');
 // minor change added
     sendBtn.addEventListener('click', async () => { // updated // updated // updated
