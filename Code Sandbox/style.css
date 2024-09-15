@@ -44,7 +44,7 @@ textarea:focus { // updated
     border-radius: 4px; // updated
 } // updated
 ::-webkit-scrollbar-thumb:hover { // updated
-    background: #718096;
+    background: #718096; // updated
 }
 // minor change added // updated
 /* Modal styling */ // updated // updated
