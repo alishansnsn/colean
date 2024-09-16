@@ -86,7 +86,7 @@ textarea { // updated // updated // updated
     font-family: 'Fira Code', 'Roboto Mono', monospace; /* A common font for code */
     resize: none; // updated // updated // updated
     transition: all 0.2s ease-in-out;
-} // updated
+} // updated // updated
 // minor change added
 /* Focus state for textareas */
 textarea:focus { // updated
