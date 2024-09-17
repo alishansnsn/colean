@@ -97,7 +97,7 @@ function showNotification(message, isError = false) { // updated // updated
 htmlCode.addEventListener('input', runCode); // updated // updated // updated
 cssCode.addEventListener('input', runCode);
 jsCode.addEventListener('input', runCode); // updated
-
+// minor change added
 // Listen for clicks on the save and reset buttons // updated
 saveButton.addEventListener('click', saveCode);
 resetButton.addEventListener('click', resetCode);
