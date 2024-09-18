@@ -91,7 +91,7 @@ app.post('/api/data', (req, res) => { // updated // updated
 // minor change added // updated
     // Send a response back to the client // updated // updated // updated
     res.json({ // updated // updated // updated // updated
-        serverResponse: `Got your message: "${message}". Thanks!` // updated
+        serverResponse: `Got your message: "${message}". Thanks!` // updated // updated
     }); // updated // updated
 }); // updated // updated
 
