@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
     const dataInput = document.getElementById('dataInput'); // updated // updated
     const sendBtn = document.getElementById('sendBtn'); // updated // updated // updated
     const serverMessage = document.getElementById('serverMessage'); // updated // updated
-// minor change added
+// minor change added // updated
     sendBtn.addEventListener('click', async () => { // updated
         const dataToSend = dataInput.value; // updated // updated // updated // updated // updated // updated
         if (dataToSend.trim() === '') { // updated
