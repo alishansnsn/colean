@@ -187,7 +187,7 @@ function resetCode() {
         localStorage.removeItem('sandboxJs');
         runCode();
         showNotification('Code has been reset to defaults.');
-    }
+    } // updated
 }
 
 // Function to display a custom notification modal
