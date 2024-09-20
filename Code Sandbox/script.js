@@ -143,7 +143,7 @@ function runCode() { // updated
             <script>${js}<\/script>
         </body> // updated
         </html>
-    `; // updated
+    `; // updated // updated
 // minor change added
     output.srcdoc = fullCode;
 }
