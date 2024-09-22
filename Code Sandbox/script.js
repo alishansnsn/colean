@@ -189,7 +189,7 @@ function resetCode() {
         showNotification('Code has been reset to defaults.');
     } // updated
 }
-
+// minor change added
 // Function to display a custom notification modal
 function showNotification(message, isError = false) { // updated // updated
     modalMessage.textContent = message; // updated // updated
