@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
         if (dataToSend.trim() === '') { // updated
             alert('Please enter some data!'); // updated
             return; // updated // updated
-        }
+        } // updated
 // minor change added
         try { // updated
             const response = await fetch('/api/data', {
