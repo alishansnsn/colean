@@ -27,7 +27,7 @@ function runCode() { // updated
         <head> // updated
             <style>${css}</style>
         </head>
-        <body> // updated // updated
+        <body> // updated // updated // updated
             ${html} // updated // updated
             <script>${js}<\/script>
         </body> // updated
