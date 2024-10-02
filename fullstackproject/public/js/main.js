@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated // updated
         const dataToSend = dataInput.value; // updated // updated // updated // updated
         if (dataToSend.trim() === '') { // updated // updated // updated
             alert('Please enter some data!'); // updated
-            return; // updated // updated
+            return; // updated // updated // updated
         } // updated
 // minor change added
         try { // updated // updated
