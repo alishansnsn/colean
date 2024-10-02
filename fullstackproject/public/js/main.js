@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
         } // updated // updated // updated
     }); // updated
 }); // updated // updated
-document.addEventListener('DOMContentLoaded', () => { // updated
+document.addEventListener('DOMContentLoaded', () => { // updated // updated
     const dataInput = document.getElementById('dataInput');
     const sendBtn = document.getElementById('sendBtn'); // updated
     const serverMessage = document.getElementById('serverMessage');
