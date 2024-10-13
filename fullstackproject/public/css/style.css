@@ -20,7 +20,7 @@ header {
 }
 // minor change added
 main { // updated
-    display: flex; // updated // updated
+    display: flex; // updated // updated // updated
     flex-direction: column; // updated // updated
     gap: 20px;
     padding: 20px; // updated
