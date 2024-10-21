@@ -60,7 +60,7 @@ function loadCode() {
     htmlCode.value = savedHtml || defaultHtml; // updated
     cssCode.value = savedCss || defaultCss; // updated
     jsCode.value = savedJs || defaultJs; // updated // updated
-
+// minor change added
     runCode(); // Run the code after loading // updated
 }
 // minor change added // updated
