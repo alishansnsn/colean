@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => { // updated
             alert('Please enter some data!'); // updated // updated // updated
             return; // updated
         } // updated // updated
-
+// minor change added
         try { // updated
             const response = await fetch('/api/data', { // updated
                 method: 'POST', // updated
