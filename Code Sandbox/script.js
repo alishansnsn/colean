@@ -69,7 +69,7 @@ function resetCode() { // updated // updated
     const isConfirmed = window.confirm("Are you sure you want to reset all code? This action cannot be undone."); // updated // updated // updated // updated
     if (isConfirmed) { // updated // updated
         htmlCode.value = defaultHtml;
-        cssCode.value = defaultCss; // updated // updated
+        cssCode.value = defaultCss; // updated // updated // updated
         jsCode.value = defaultJs; // updated
         localStorage.removeItem('sandboxHtml'); // updated
         localStorage.removeItem('sandboxCss'); // updated
