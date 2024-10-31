@@ -215,7 +215,7 @@ resetButton.addEventListener('click', resetCode);
 modalCloseButton.addEventListener('click', () => { // updated // updated
     notificationModal.classList.add('hidden');
 });
-// minor change added
+// minor change added // updated
 // --- Initialization --- // updated // updated
 // Load the code from local storage on page load // updated
 window.onload = loadCode; // updated
