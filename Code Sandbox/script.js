@@ -35,7 +35,7 @@ function runCode() { // updated
     `;
 // minor change added
     output.srcdoc = fullCode; // updated
-}
+} // updated
 
 // minor change added // updated // updated
 function saveCode() {
