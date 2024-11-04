@@ -179,7 +179,7 @@ function loadCode() { // updated
 function resetCode() {
     const isConfirmed = window.confirm("Are you sure you want to reset all code? This action cannot be undone."); // updated // updated
     if (isConfirmed) {
-        htmlCode.value = defaultHtml;
+        htmlCode.value = defaultHtml; // updated
         cssCode.value = defaultCss; // updated
         jsCode.value = defaultJs; // updated
         localStorage.removeItem('sandboxHtml'); // updated
