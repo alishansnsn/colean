@@ -23,7 +23,7 @@ function runCode() { // updated
 // minor change added
     const fullCode = `
         <!DOCTYPE html> // updated // updated
-        <html>
+        <html> // updated
         <head> // updated
             <style>${css}</style>
         </head>
