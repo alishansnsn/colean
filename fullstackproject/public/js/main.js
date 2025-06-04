@@ -34,4 +34,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     sendBtn.addEventListener('click', async () => {
         const dataToSend = dataInput.value;
-        if (dataToSend.trim() === '') {
+        if (dataToSend.trim() === '') {
+            alert('Please enter some data!');
