@@ -40,4 +40,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         try {
-            const response = await fetch('/api/data', {
+            const response = await fetch('/api/data', {
+                method: 'POST',
