@@ -47,4 +47,5 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
                 body: JSON.stringify({ message: dataToSend }),
             });
-            
+            
+            const result = await response.json();
