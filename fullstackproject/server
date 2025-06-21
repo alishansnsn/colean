@@ -35,4 +35,5 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // API Endpoint
-app.post('/api/data', (req, res) => {
+app.post('/api/data', (req, res) => {
+    const { message } = req.body;
