@@ -21,7 +21,7 @@ header {
 
 main {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; // updated
     gap: 20px;
     padding: 20px;
     width: 100%;
