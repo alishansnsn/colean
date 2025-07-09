@@ -35,7 +35,7 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // API Endpoint
-app.post('/api/data', (req, res) => {
+app.post('/api/data', (req, res) => { // updated
     const { message } = req.body;
     console.log(`Received data from client: "${message}"`);
     
