@@ -42,7 +42,7 @@ section {
     border-radius: 4px;
 }
 
-.data-input button {
+.data-input button { // updated
     padding: 10px 15px;
     background-color: #2196F3; // updated
     color: white;
