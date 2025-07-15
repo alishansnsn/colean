@@ -4,7 +4,7 @@ const app = express(); // updated // updated
 const port = 3000;
 
 // Middleware to parse JSON bodies
-app.use(express.json());
+app.use(express.json()); // updated
 // minor change added
 // Serve static files from the 'public' directory
 app.use(express.static(path.join(__dirname, 'public'))); // updated
