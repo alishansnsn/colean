@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
             serverMessage.textContent = 'Error: Could not connect to the server.';
             console.error('Error:', error);
         }
-    });
+    }); // updated
 });
 document.addEventListener('DOMContentLoaded', () => {
     const dataInput = document.getElementById('dataInput');
