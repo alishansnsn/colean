@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
             serverMessage.textContent = `Server said: "${result.serverResponse}"`;
         } catch (error) {
             serverMessage.textContent = 'Error: Could not connect to the server.';
-            console.error('Error:', error);
+            console.error('Error:', error); // updated
         }
     }); // updated
 });
