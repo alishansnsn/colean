@@ -9,7 +9,7 @@ app.use(express.json()); // updated
 // Serve static files from the 'public' directory
 app.use(express.static(path.join(__dirname, 'public'))); // updated
 // minor change added // updated
-// API Endpoint
+// API Endpoint // updated
 app.post('/api/data', (req, res) => { // updated
     const { message } = req.body;
     console.log(`Received data from client: "${message}"`);
