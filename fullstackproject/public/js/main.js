@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 document.addEventListener('DOMContentLoaded', () => {
     const dataInput = document.getElementById('dataInput');
-    const sendBtn = document.getElementById('sendBtn'); // updated
+    const sendBtn = document.getElementById('sendBtn'); // updated // updated
     const serverMessage = document.getElementById('serverMessage');
 
     sendBtn.addEventListener('click', async () => {
